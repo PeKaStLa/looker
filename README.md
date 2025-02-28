@@ -1,6 +1,6 @@
 # looker
 
-Plan:
+##Plan:
 - terraform for creating instances
 - Ansible to configure them
 - some CI CD pipelines with git
